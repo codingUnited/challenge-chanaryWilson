@@ -1,2 +1,2 @@
-# challenge-chanaryWilson
+# **CODING UNITED CHALLENGE**
 CodingUnited Club Challenge Yee-Haw!

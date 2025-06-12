@@ -1,5 +1,5 @@
 ![alt text](images/coding_united_challenge.png)
-# <p style='text-align: center'>**CodingUnited Club Challenge Yee-Haw!**</p>
+# **CodingUnited Club Challenge Yee-Haw!**
 Welcome to my CodingUnited challenge repo! ✨ This challenge is to test our abilities to work with **Git versioning** control system for collaborative purposes.
 ## Setup Instructions
 ### 1️⃣ Clone the repository
